@@ -1,1 +1,1 @@
-# vue-music-visulizer
+# vue-music-visualizer
